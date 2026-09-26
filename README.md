@@ -241,4 +241,4 @@ This repository serves as the official landing page for uBlock Origin. The softw
 **Get the most recent version of uBlock Origin today!**
 
 ---
-**Last updated:** 2026-09-26 20:24:36 UTC
+**Last updated:** 2026-09-26 23:15:34 UTC
